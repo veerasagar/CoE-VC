@@ -1,0 +1,39 @@
+# Requirements for AI Fashion Design System
+
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+
+# Revolutionary Architecture Components  
+mamba-ssm>=1.0.0
+causal-conv1d>=1.0.0
+diffusers>=0.21.0
+transformers>=4.21.0
+
+# 3D Graphics and NeRF
+tinycudann>=1.6.0
+trimesh>=3.15.0
+einops>=0.6.0
+
+# Computer Vision
+opencv-python>=4.6.0
+Pillow>=9.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Fashion Datasets
+torchvision  # Fashion-MNIST included
+
+# Training and Utilities
+tqdm>=4.64.0
+wandb>=0.13.0
+tensorboard>=2.8.0
+pyyaml>=6.0.0
+
+# Jupyter for Tutorial
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Pattern Export
+ezdxf>=0.17.0  # For DXF sewing patterns
