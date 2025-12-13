@@ -1,0 +1,22 @@
+# References
+
+- Chowdhury, M. E., et al., "Can AI help in screening Viral and COVID-19 pneumonia?," IEEE Access, vol. 8, pp. 132665-132676, 2020.
+- Ozturk, T., Talo, M., Yildirim, E. A., et al., "Automated detection of COVID-19 cases using deep neural networks with X-ray images," Computers in Biology and Medicine, vol. 121, p. 103792, 2020.
+- Khan, A. I., Shah, J. L., & Bhat, M. M., "CoroNet: A deep neural network for detection and diagnosis of COVID-19 from chest x-ray images," Computer Methods and Programs in Biomedicine, vol. 196, p. 105581, 2020.
+- Narin, A., Kaya, C., & Pamuk, Z., "Automatic detection of coronavirus disease (COVID-19) using X-ray images and deep convolutional neural networks," Pattern Analysis and Applications, vol. 24, pp. 1207–1220, 2021.
+- Apostolopoulos, I. D., & Mpesiana, T. A., "Covid-19: automatic detection from X-ray images utilizing transfer learning with convolutional neural networks," Physical and Engineering Sciences in Medicine, vol. 43, no. 2, pp. 635-640, 2020.
+- Sethy, P. K., & Behera, S. K., "Detection of Coronavirus Disease (COVID-19) based on Deep Features and Support Vector Machine," International Journal of Mathematical, Engineering and Management Sciences, vol. 5, no. 4, pp. 643-651, 2020.
+- Hemdan, E. E. D., Shouman, M. A., & Karar, M. E., "COVIDX-Net: A Framework of Deep Learning Classifiers to Diagnose COVID-19 in X-Ray Images," arXiv preprint arXiv:2003.11055, 2020.
+- Wang, L., Lin, Z. Q., & Wong, A., "COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest X-Ray Images," Scientific Reports, vol. 10, p. 19549, 2020.
+- Rahman, T., et al., "Exploring the effect of image enhancement techniques on COVID-19 detection using chest X-ray images," Computers in Biology and Medicine, vol. 132, p. 104319, 2021.
+- Afshar, P., et al., "COVID-CAPS: A capsule network-based framework for identification of COVID-19 cases from X-ray images," Pattern Recognition Letters, vol. 138, pp. 63-70, 2020.
+- Abbas, A., Abdelsamea, M. M., & Gaber, M. M., "Classification of COVID-19 in chest X-ray images using DeTraC deep convolutional neural network," Applied Intelligence, vol. 51, pp. 854–864, 2021 (Preprint 2020).
+- Ucar, F., & Korkmaz, D., "COVIDiagnosis-Net: Deep Bayes-SqueezeNet based diagnosis of the coronavirus disease 2019 (COVID-19) from X-ray images," Medical Hypotheses, vol. 140, p. 109761, 2020.
+- Ismael, A. M., & Sengur, A., "Deep learning approaches for COVID-19 detection based on chest X-ray images," Expert Systems with Applications, vol. 164, p. 114054, 2021.
+- Mukherjee, H., et al., "Deep learning based screening of COVID-19 using Radiographs," Applied Intelligence, 2020.
+- Jain, R., et al., "Deep learning based detection and analysis of COVID-19 on chest X-ray images," Applied Intelligence, vol. 51, pp. 1690–1700, 2021.
+- Hassanien, A. E., et al., "Automatic X-ray COVID-19 Lung Image Classification System based on Multi-Level Thresholding and Support Vector Machine," medRxiv preprint, 2020.
+- Punn, N. S., & Agarwal, S., "Automated diagnosis of COVID-19 with limited posteroanterior chest X-ray images using fine-tuned deep neural networks," Applied Intelligence, vol. 51, pp. 2689–2702, 2021.
+- Minaee, S., et al., "Deep-COVID: Predicting COVID-19 from chest X-ray images using deep transfer learning," Medical Image Analysis, vol. 65, p. 101794, 2020.
+- Loey, M., Smarandache, F., & Khalifa, N. E. M., "Within the Lack of Chest COVID-19 X-ray Dataset: A Novel Detection Model Based on GAN and Deep Transfer Learning," Symmetry, vol. 12, no. 4, p. 651, 2020.
+- Turkoglu, M., "COVID-19 Detection System Using Chest CT Images and Multiple Kernels-Extreme Learning Machine Based on Deep Neural Network," IRBM, vol. 42, no. 4, pp. 207-214, 2021.
